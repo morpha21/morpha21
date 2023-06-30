@@ -1,1 +1,3 @@
-Well, I have a Mathematics Bachelor's Degree, I'm interested in Data Science and Data Analisys, Machine Learning, Image Processing and Computer Vision, and Cryptography but all of that is new to me. I'm always trying to learn something new, and eventually I post here things I do that I consider interesting. Feel free to contact me if you spot any bug, have any suggestion to make, want to teach me something or if you think you could learn something from me aswel. And, of course, if you want to do any kind of collaboration. 
+Here I upload my studies and personal projects.
+
+I do like Go, Python, Math, image processing (see the ```impala``` reository), scripting and automating stuff. I'm currently studying Machine Learning, so it should appear around here soon, implemented in Go 'from scratch' (see the ```Neural-Network``` repository) or maybe at a Jupyter Notebook.
